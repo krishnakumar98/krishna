@@ -2,9 +2,9 @@
 void main()
 {
 	int n;
-	scanf("%n",&n);
-	if(n%2==0)
-		printf("odd number");
-	else
+	scanf("%d",&n);
+	if((n%2)==0)
 		printf("even number");
+	else
+		printf("odd number");
 }
