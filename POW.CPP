@@ -8,5 +8,5 @@ void main()
   cin>>p;
   for(i=1;i<=p;i++)
   r=r*n;
-  cout<<"\nThe power of "<<n<<" about "<<p<<" is "<<r);
+  cout<<"\nThe power of "<<n<<" about "<<p<<" is "<<r;
 }
