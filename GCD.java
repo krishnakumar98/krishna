@@ -29,7 +29,7 @@ public class GCD {
 	a=sc.nextInt();
 	b=sc.nextInt();
 	t=gcd(a,b);
-	System.out.println("the gcd of "+a+" and "+b+" is "+t);
+	System.out.println("the HCF of "+a+" and "+b+" is "+t);
 	sc.close();
 	}
 }
