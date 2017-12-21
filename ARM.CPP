@@ -13,10 +13,10 @@ void main()
  }
  if(rev==t)
  {
-  cout<<"\nthe given no "<<t<<" is armstrong";
+  cout<<"\nyes";
  }
  else
  {
-  cout<<"\nThe given no "<<t<<" is not armstrong";
+  cout<<"\nno";
  }
 }
