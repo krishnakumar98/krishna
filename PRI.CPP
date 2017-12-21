@@ -10,7 +10,7 @@ void main()
      break;
  }
  if(i==n)
-   cout<<"\nThe given no "<<n<<" is prime number";
+   cout<<"\yes";
  else
-   cout<<"\nThe given no "<<n<<" is not prime number";
+   cout<<"\nno ";
 }
