@@ -6,7 +6,7 @@ void main()
   cin>>low;
   cout<<"\nEnter the upper limit";
   cin>>upp;
-  for(i=low;i<=upp;i++)
+  for(i=low+1;i<=upp-1;i++)
      {
        if(i%2==0)
 	{
