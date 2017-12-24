@@ -15,7 +15,7 @@ public class sort {
      }
     for(i=0;i<n;i++)
     {
-    	for(j=;j<n;j++)
+    	for(j=i;j<n;j++)
     		
     	{
     		if(a[i]>a[j])
