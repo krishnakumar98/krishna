@@ -1,2 +1,2 @@
 s=input("Enter a number\n")
-print(s)
+print(s.replace(';',''))
