@@ -1,1 +1,5 @@
-print(fact(int(input())))
+n=int(input("Enter a number"))
+f=1
+for i in range(1,n):
+	f=f*i
+print(f)
